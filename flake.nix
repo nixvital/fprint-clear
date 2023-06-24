@@ -1,5 +1,5 @@
 {
-  description = "Collection of my NixOS machines";
+  description = "Clear the fprintd storage the easy way";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.05";
